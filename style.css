@@ -1,0 +1,11 @@
+.img-1{
+  background-image: url(https://img.etimg.com/thumb/width-1200,height-900,imgsize-98438,resizemode-1,msid-86002517/small-biz/sme-sector/snowman-logistics-begins-operations-of-its-warehouse-in-siliguri.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+
+.font{
+  font-size: xx-large;
+  font-weight: bolder;
+}
